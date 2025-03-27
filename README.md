@@ -30,7 +30,7 @@ A classic Tic-Tac-Toe game developed with **JavaScript**, allowing two players t
 
 3. Open the `index.html` file in your browser to start playing.
 
-   ---
+---
    
 # 🛠️ Funcionalidades Implementadas
 
